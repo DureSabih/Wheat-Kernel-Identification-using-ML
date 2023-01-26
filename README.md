@@ -28,5 +28,5 @@ namely, Kama, Rosa and Canadian. Identification and study on geometrical attribu
 is an important indicator of the type of category it belongs to (Khatri et.al.,2002).. objective of this 
 task is to predict the type of wheat by using a technique suitable for the type of dataset. For this reason, 
 data is explored, and feature types are identified. Two clustering methods will be used and assessed 
-on their accuracy. Independent and dependant variables are as shown in Table 1
+on their accuracy.
 
