@@ -19,3 +19,14 @@ learning is widely used across various industries for categorization, regression
 objective of this task is to implement clustering methods on the seeds dataset to group the wheat grain 
 varieties into the right category. Project will also aim at assessing which method is more suitable to 
 the dataset based on evaluation metrics.
+
+# About the dataset
+
+Seeds dataset was sourced from UCI Machine Learning Repository (2019) and contributed by 
+Kulczycki et al. Dataset contains 210 instances of 3 types of wheat grains from experimental fields 
+namely, Kama, Rosa and Canadian. Identification and study on geometrical attributes of wheat grain 
+is an important indicator of the type of category it belongs to (Khatri et.al.,2002).. objective of this 
+task is to predict the type of wheat by using a technique suitable for the type of dataset. For this reason, 
+data is explored, and feature types are identified. Two clustering methods will be used and assessed 
+on their accuracy. Independent and dependant variables are as shown in Table 1
+
