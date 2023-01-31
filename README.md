@@ -1,8 +1,5 @@
 # Wheat-Kernel-Identification-using-ML
-
 Author Name : Dure Sabih
-ID : 0701990
-
 Dataset name : seeds_dataset.csv
 
 # Background
